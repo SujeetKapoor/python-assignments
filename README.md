@@ -7,6 +7,7 @@ Python lab assignments (LCA1).
 **Division:** 9
 **Branch:** CSE (AI-DS)
 **Subject:** Python
+**batch:** 1
 
 All programs are written in plain Python with no external libraries, so they run
 on any machine with Python 3 installed.
